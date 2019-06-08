@@ -1,4 +1,4 @@
-## Motion/Measurement Model + SOT Algorithm + OOP
+## Motion/Measurement/Sensor Model + SOT Algorithms + Gaussian Mixture Reduction
 > :innocent::no_entry_sign::game_die:
 
 <br></br>
