@@ -2,7 +2,7 @@
 > :innocent::no_entry_sign::game_die:
 
 <br></br>
-<img src="https://github.com/mmc-n33/MATLAB/blob/master/MPC%20for%20Lane%20Keeping/mpcsimulation.gif" width="1400" height="400" />
+<img src="mpcsimulation.gif" width="1400" height="400" />
 <br></br>
 
 <p align="center">:eyes::microphone:🏹💺:syringe:🗿:mens:</p>
