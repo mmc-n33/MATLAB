@@ -2,8 +2,8 @@
 > :innocent::no_entry_sign::game_die:
 
 <br></br>
-<img src="https://github.com/mmc-n33/MATLAB/blob/master/Object%20Tracking/tracking1_1967.jpg" width="1400" height="400" />
-<img src="https://github.com/mmc-n33/MATLAB/blob/master/Object%20Tracking/tracking2_1967.jpg" width="1400" height="400" />
+<img src="tracking1_1967.jpg" width="1400" height="400" />
+<img src="tracking2_1967.jpg" width="1400" height="400" />
 <br></br>
 
 <p align="center">:eyes::microphone:🏹💺:syringe:🗿:mens:</p>
