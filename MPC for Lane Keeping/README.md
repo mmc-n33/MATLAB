@@ -1,4 +1,4 @@
-## Adaptive Linearization + MPC + Animation Plot
+### Adaptive Linearization + MPC + Animation Plot
 > :innocent::no_entry_sign::game_die:
 
 <br></br>
